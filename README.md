@@ -1,6 +1,7 @@
 # ToDo
 
-In this app we can make checklist of pending works. By default there are two list. 
+In this app we can make checklist of pending works. 
+By default there are two lists. 
 After completion we can mark on checkbox, which will create "line through" or we 
 can permanently delete the task by sliding towards left.
 
